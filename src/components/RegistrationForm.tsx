@@ -229,11 +229,10 @@ RINCIAN INVESTASI:
 ${participantType === 'group' ? `• Diskon Tim (10%): -Rp ${groupDiscount.toLocaleString('id-ID')}\n` : ''}${addPrivateCoaching ? `• Add-on 1-on-1 Coaching: +Rp ${privateCoachingFee.toLocaleString('id-ID')}\n` : ''}${addPrintedKit ? `• Add-on Modul Fisik: +Rp ${printedKitFee.toLocaleString('id-ID')}\n` : ''}${appliedPromo ? `• Kupon Promo (${appliedPromo.code}): -Rp ${promoDiscount.toLocaleString('id-ID')}\n` : ''}• TOTAL PEMBAYARAN: Rp ${finalTotal.toLocaleString('id-ID')}
 
 REKENING RESMI NMARK MANAJEMEN INDONESIA:
-Bank Mandiri Cabang Sudirman
-No. Rekening : 137-00-1988202-7
-Atas Nama    : PT NMARK MANAJEMEN INDONESIA
-
-Silakan konfirmasi bukti transfer via WhatsApp Official: +62 818-1494-240.
+Bank Central Asia (BCA)
+No. Rekening : 4580171031
+Atas Nama    : SURYANITA ROSSANA
+Silakan konfirmasi dan lampirkan bukti transfer via WhatsApp Official: +62 818-1494-240.
 =====================================================`;
 
     const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
