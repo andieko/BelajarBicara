@@ -1,0 +1,6 @@
+{
+  "name": "Belajar Bicara - NMARK Communication Training",
+  "description": "Landing page interaktif program Belajar Bicara & pelatihan komunikasi terpadu dari NMARK Manajemen Indonesia, dilengkapi pendaftaran kelas yang mudah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
